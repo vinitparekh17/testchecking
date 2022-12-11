@@ -4,6 +4,6 @@ exports[`car accelerates 1`] = `
 Car {
   "engine": "2.85 L",
   "power": "97 kW",
-  "speed": 88,
+  "speed": 89,
 }
 `;
