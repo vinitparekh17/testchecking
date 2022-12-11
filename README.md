@@ -6,9 +6,11 @@
 Jest is the testing framework build by fackbook. It is used to test React App and most commonly javascript with focus of simplicity.
 
 <details><summary>Screenshot of JEST testing:</summary>
+
 <center>
     <img src="./image/Screenshot.png">
 </center>
+
 </details>
 
 ## Pros of testing approch:
