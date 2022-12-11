@@ -8,7 +8,7 @@ Jest is the testing framework build by fackbook. It is used to test React App an
 <details><summary>Screenshot of JEST testing:</summary>
 
 <center>
-    <img src="./image/Screenshot.png">
+    <img src="./image/Screenshot.png" width="330px">
 </center>
 
 </details>
