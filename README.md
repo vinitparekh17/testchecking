@@ -1,5 +1,6 @@
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hR55oLmudAUGPLtYaoT6FninNxRAvv2XxdKWE0LMuQ&s" align="center">
+<center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hR55oLmudAUGPLtYaoT6FninNxRAvv2XxdKWE0LMuQ&s">
+</center>
 <br/>
 
 # This repo is made to learn JEST framework
