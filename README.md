@@ -13,11 +13,11 @@ Jest is the testing framework build by fackbook. It is used to test React App an
 
 </details>
 
-## Pros of testing approch:
+## Pros of testing approch using JEST:
 <ol>
 <li> FAILING TEST = MOST LIKELY A BUG
 <li> Easy to read and understand module / functions
-<li> Survives major refactiring
+<li> Survives major refactoring
 <li> Tests entire app
 </ol>
 
@@ -29,11 +29,10 @@ const a = '1'
 // eslint will say "Missing samicolon"
 ```
 
-<center>
+<u>
 
 **Eslint is the great example for testing test utilites**
-
-</center>
+</u>
 
 Eslint support custom rules so you can define your own rule to define a good approch of writing a code in `JavaScript`. Just has an ability called `Eslint Rule Tester`.
 
