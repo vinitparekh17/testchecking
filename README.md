@@ -29,7 +29,10 @@ const a = '1'
 // eslint will say "Missing samicolon"
 ```
 
-**`Eslint is the great example for testing test utilites`**
+<center>
+
+**Eslint is the great example for testing test utilites**
+</center>
 
 Eslint support custom rules so you can define your own rule to define a good approch of writing a code in `JavaScript`. Just has an ability called `Eslint Rule Tester`.
 
