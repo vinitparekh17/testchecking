@@ -28,7 +28,9 @@ Eslint is the tool that checks your code, analize it and finds common patterns, 
 const a = '1'
 // eslint will say "Missing samicolon"
 ```
-**`Eslint is the great example for testing test utilites``**
+
+**`Eslint is the great example for testing test utilites`**
+
 Eslint support custom rules so you can define your own rule to define a good approch of writing a code in `JavaScript`. Just has an ability called `Eslint Rule Tester`.
 
 <details><summary>**Show example of `Eslint Rule Tester`:**</summary>
