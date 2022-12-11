@@ -1,6 +1,7 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hR55oLmudAUGPLtYaoT6FninNxRAvv2XxdKWE0LMuQ&s" align="right">
-
 # This repo is made to learn JEST framework
+<br/>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hR55oLmudAUGPLtYaoT6FninNxRAvv2XxdKWE0LMuQ&s" align="right">
 
 ## What is **JEST**?
 Jest is the testing framework build by fackbook. It is used to test React App and most commonly javascript with focus of simplicity.
