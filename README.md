@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hR55oLmudAUGPLtYaoT6FninNxRAvv2XxdKWE0LMuQ&s" align="right">
 
-# This repo is made to lern JEST framework
+# This repo is made to learn JEST framework
 
 ## What is **JEST**?
 Jest is the testing framework build by fackbook. It is used to test React App and most commonly javascript with focus of simplicity.
@@ -48,4 +48,7 @@ ruleTester('semicolon', {
 </details>
 
 ## Snapshot testing with `JEST`
+
+<dt>What is snapshot testing?</dt>
+</dd>Snapshot means a blue print of component ( part of UI) or we can say an Blueprint of object of data that can be predefined.<br/> With this snapshot we can compare with reference snapshot file and compare both in test so UI does not change unexpectedly! </dd>
 
