@@ -1,7 +1,7 @@
 {
-  "name": "tutorial",
+  "name": "jest-tutorial",
   "version": "1.0.0",
-  "description": "Wallaby Tutorial",
+  "description": "Jest Tutorial",
   "main": "index.js",
   "scripts": {
     "test": "jest"
