@@ -34,11 +34,7 @@ const a = '1'
 Eslint support custom rules so you can define your own rule to define a good approch of writing a code in `JavaScript`. Just has an ability called `Eslint Rule Tester`.
 
 <details>
-<summary> 
-
-**Show example of `Eslint Rule Tester`:** 
-
-</summary>
+<summary> Show example of Eslint Rule Tester:</summary>
 
 ```js
 ruleTester('semicolon', {
