@@ -5,7 +5,7 @@
 ## What is **JEST**?
 Jest is the testing framework build by fackbook. It is used to test React App and most commonly javascript with focus of simplicity.
 
-<details><summary>Screenshot of JEST testing:</summary>
+<details><summary>Click here to see a Screenshot of JEST testing:</summary>
 
 <center>
     <img src="./image/Screenshot.png" width="330px">
@@ -37,7 +37,7 @@ const a = '1'
 Eslint support custom rules so you can define your own rule to define a good approch of writing a code in `JavaScript`. Just has an ability called `Eslint Rule Tester`.
 
 <details>
-<summary> Show example of Eslint Rule Tester:</summary>
+<summary> Click here to see an example of Eslint Rule Tester:</summary>
 
 ```js
 ruleTester('semicolon', {
