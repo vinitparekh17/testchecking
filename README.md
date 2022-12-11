@@ -48,7 +48,8 @@ ruleTester('semicolon', {
 </details>
 
 ## Snapshot testing with `JEST`
-
+<dl>
 <dt>What is snapshot testing?</dt>
-</dd>Snapshot means a blue print of component ( part of UI) or we can say an Blueprint of object of data that can be predefined.<br/> With this snapshot we can compare with reference snapshot file and compare both in test so UI does not change unexpectedly! </dd>
+<dd>Snapshot means a blue print of component ( part of UI) or we can say an Blueprint of object of data that can be predefined.<br/> With this snapshot we can compare with reference snapshot file and compare both in test so UI does not change unexpectedly! </dd>
+</dl>
 
